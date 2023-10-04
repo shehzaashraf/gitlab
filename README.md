@@ -1,2 +1,2 @@
 # gitlab
-its a markdown in this eepository
+its a markdown file in this repository
